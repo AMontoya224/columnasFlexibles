@@ -1,8 +1,6 @@
 .row{
     color: white;
     text-align: left;
-    padding: 15px;
-    margin: 15px;
     display: flex;
     justify-content: space-around;
 }
